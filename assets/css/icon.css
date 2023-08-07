@@ -1,0 +1,26 @@
+.icon {
+  width: 25.5px;
+  height: 25.5px;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+  float: left;
+}
+.sm {
+  width: 28px;
+  height: 28px;
+}
+.lg {
+  width: 46px;
+  height: 46px;
+}
+.star{
+  background-image: url(../icon/Star.svg);
+}
+.Search{
+  background-image: url(../icon/Search.svg);
+}
