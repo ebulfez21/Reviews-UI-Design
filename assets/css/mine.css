@@ -142,13 +142,13 @@ input:focus {
 }
 .rating-fill {
   width: 329.692px;
-  height: 100%;
+  height: 10px;
   border-radius: 13px;
   border: 1px solid #efb153;
   background: #ffd66c;
 }
 .rating-filll{
-  width: 100%;
+  width: 10px;
   height: 10px;
   border-radius: 13px;
   border: 1px solid #efb153;
